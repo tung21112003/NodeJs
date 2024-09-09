@@ -129,5 +129,13 @@
 //  )
 //  console.log("arr2",arr2);
 
-
+//16.
+// let arr = [ 1,1 ,3,3, 7, 7,7 ,7, 8];
+//   let arr2= arr.reduce(
+//   (arr2 ,curr)=>{
+//     arr2[curr] = (arr2[curr] || 0) +1 ;
+//     return arr2
+//   }, {}
+//  )
+//   console.log("arr2",arr2);
 
